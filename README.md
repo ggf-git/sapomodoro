@@ -19,4 +19,5 @@ Comandos del bot:
 
     retoma la sesión pausada de sapomodoro, con el tiempo y rondas que faltaban para terminar.
 (-) cortar sapomodoro
+   
     corta la sesión de estudio del todo.
